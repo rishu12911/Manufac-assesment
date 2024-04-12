@@ -1,13 +1,9 @@
-Create a React App.
+clone the repo in  your local.
+in terminal, use commands 
+-npm install
+-npm install --global yarn
+-yarn start
 
-yarn create react-app my-app
-
-yarn start
-
-Runs the app in development mode. Open http://localhost:3000 to view it in the browser.
-
-The page will automatically reload if you make changes to the code. 
-
-use this cmd in terminal in VS code , if you get error using yarn start.
-
-"Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass"
+Note: if u get a path error then use command "Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass"
+-yarn start
+![Manufac](https://github.com/rishu12911/Manufac-assesment/assets/107927397/d1baa4e2-8b33-49ed-9723-c03e1f92588f)
