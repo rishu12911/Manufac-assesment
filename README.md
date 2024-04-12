@@ -1,7 +1,12 @@
 clone the repo in  your local.
 in terminal, use commands 
+
 -npm install
+
 -npm install --global yarn
+
+-npm install @mantine/core
+
 -yarn start
 
 Note: if u get a path error then use command "Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass"
