@@ -1,0 +1,3 @@
+run this, if you get error using yarn start.
+
+Set-ExecutionPolicy -Scope Process -ExecutionPolicy Bypass
